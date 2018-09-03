@@ -15,6 +15,7 @@ using namespace std;
 
 typedef pair<int,int> ii;
 typedef vector<int> vi;
+typedef long long ll;
 
 vector<string> split_string(const string& string, const char& delimiter){
     vector<std::string> tokens;
